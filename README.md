@@ -3,7 +3,7 @@
 一个简单的xxl-job spring-boot-starter, 直接配置即可以使用xxl-job
 # 使用方法 (usage):
  ```
-    <groupId>com.zero9102.xxljob</groupId>
+    <groupId>com.github.zero9102</groupId>
     <artifactId>xxl-job-spring-boot-starter</artifactId>
     <version>1.0.0</version>
  ```
