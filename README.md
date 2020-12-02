@@ -58,5 +58,5 @@ xxl.job.executor-log-retention-days=30
 [xxl-job官方文档](https://www.xuxueli.com/xxl-job/)
 
 ## License
-Apache2.0，纯粹开源分享，感谢大家 [Star](https://github.com/zero9102/xxl-job-spring-boot-starter/stargazers) & [Fork](https://github.com/zero9102/xxl-job-spring-boot-starter/network/members) 的支持。
+Apache2.0，纯粹开源分享,感谢大家 [Star](https://github.com/zero9102/xxl-job-spring-boot-starter/stargazers) & [Fork](https://github.com/zero9102/xxl-job-spring-boot-starter/network/members) 的支持。
 
