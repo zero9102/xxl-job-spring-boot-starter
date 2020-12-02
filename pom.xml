@@ -4,7 +4,7 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.zero9102.xxljob</groupId>
+    <groupId>com.github.zero9102</groupId>
     <artifactId>xxl-job-spring-boot-starter</artifactId>
     <version>1.0.0</version>
     <url>https://github.com/zero9102/xxl-job-spring-boot-starter</url>
