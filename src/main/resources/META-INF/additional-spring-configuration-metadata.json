@@ -1,0 +1,67 @@
+{
+    "properties": [
+        {
+            "name": "xxl.job.enabled",
+            "type": "java.lang.Boolean",
+            "sourceType": "com.zero9102.xxljob.config.XxlJobProperties",
+            "defaultValue": false
+        },
+        {
+            "name": "xxl.job.admin-addresses",
+            "type": "java.lang.String",
+            "sourceType": "com.zero9102.xxljob.config.XxlJobProperties"
+        },
+        {
+            "name": "xxl.job.access-token",
+            "type": "java.lang.String",
+            "sourceType": "com.zero9102.xxljob.config.XxlJobProperties"
+        },
+        {
+            "name": "xxl.job.executor.app-name",
+            "type": "java.lang.String",
+            "sourceType": "com.zero9102.xxljob.config.XxlJobProperties",
+            "description": "app Executor-name."
+        },
+        {
+            "name": "xxl.job.executor-address",
+            "type": "java.lang.String",
+            "sourceType": "com.zero9102.xxljob.config.XxlJobProperties"
+        },
+        {
+            "name": "xxl.job.executor-ip",
+            "type": "java.lang.String",
+            "sourceType": "com.zero9102.xxljob.config.XxlJobProperties",
+            "description": "executor ip"
+        },
+        {
+            "name": "xxl.job.executor-port",
+            "type": "java.lang.Integer",
+            "sourceType": "com.zero9102.xxljob.config.XxlJobProperties"
+        },
+        {
+            "name": "xxl.job.executor-log-path",
+            "type": "java.lang.String",
+            "sourceType": "com.zero9102.xxljob.config.XxlJobProperties"
+        },
+        {
+            "name": "xxl.job.executor-log-retention-days",
+            "type": "java.lang.Integer",
+            "sourceType": "com.zero9102.xxljob.config.XxlJobProperties",
+            "description": "log retention days",
+            "defaultValue": 30
+        }
+    ],
+    "hints": [
+        {
+            "values": [
+                {
+                    "value": true
+                },
+                {
+                    "value": false
+                }
+            ],
+            "name": "xxl.job.enabled"
+        }
+    ]
+}
