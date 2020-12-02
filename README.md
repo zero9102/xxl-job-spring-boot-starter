@@ -5,7 +5,7 @@
  ```
     <groupId>com.zero9102.xxljob</groupId>
     <artifactId>xxl-job-spring-boot-starter</artifactId>
-    <version>2.2.0</version>
+    <version>1.0.0</version>
  ```
 ## 相关版本信息
 
