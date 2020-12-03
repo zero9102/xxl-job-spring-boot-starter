@@ -78,6 +78,29 @@
     </dependencyManagement>
 
     <profiles>
+        <profile>
+            <id>github</id>
+            <repositories>
+                <repository>
+                    <id>central</id>
+                    <url>https://repo1.maven.org/maven2</url>
+                    <releases><enabled>true</enabled></releases>
+                    <snapshots><enabled>true</enabled></snapshots>
+                </repository>
+                <repository>
+                    <id>github</id>
+                    <name>xxl-job-spring-boot-starter</name>
+                    <url>https://maven.pkg.github.com/zero9102/xxl-job-spring-boot-starter</url>
+                </repository>
+            </repositories>
+            <distributionManagement>
+                <repository>
+                    <id>github</id>
+                    <name>xxl-job-spring-boot-starter</name>
+                    <url>https://maven.pkg.github.com/zero9102/xxl-job-spring-boot-starter</url>
+                </repository>
+            </distributionManagement>
+        </profile>
 
         <profile>
             <id>release</id>
