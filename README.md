@@ -5,7 +5,7 @@
  ```
     <groupId>com.github.zero9102</groupId>
     <artifactId>xxl-job-spring-boot-starter</artifactId>
-    <version>1.0.1-RELEASE</version>
+    <version>2.2.0</version>
  ```
 ## 相关版本信息
 
