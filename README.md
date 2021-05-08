@@ -5,15 +5,15 @@
  ```
     <groupId>com.github.zero9102</groupId>
     <artifactId>xxl-job-spring-boot-starter</artifactId>
-    <version>2.2.0</version>
+    <version>2.3.0</version>
  ```
 ## 相关版本信息
 
 | 项目 | 版本  | 说明 | GAV |
 | -----:| --------- | ----------- | ------- |
-| xxl-job-core | 2.2.0 |xxl-job-core模块|xxl-job-core|
+| xxl-job-core | 2.3.0 |xxl-job-core模块|xxl-job-core|
 |spring-boot |2.2.6.RELEASE|spring-boot 版本信息|spring-boot GAV|
-|xxl-job-admin|2.2.0|xxl-job-admin 模块| xxl-job-admin GAV|
+|xxl-job-admin|2.3.0|xxl-job-admin 模块| xxl-job-admin GAV|
 
 > \# 配置例子: application.properties
 
